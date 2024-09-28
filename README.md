@@ -13,17 +13,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2>Installation</h2>
 <p>To install this project, follow these steps:</p>
 
-<pre>
-git clone https://github.com/username/repository.git
-cd repository
-</pre>
-
-<h2>Usage</h2>
-<pre>
-# Run the project
-python main.py
-</pre>
-
 <h2>Contributing</h2>
 <p>Feel free to contribute by submitting a pull request.</p>
 
