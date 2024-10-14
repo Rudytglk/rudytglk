@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Rudy</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Rudy</a> <i class="fa-solid fa-badge-check"></i> height="32" /></h1>
 </br>
 # Unveiling Zyronix Bot - Your WhatsApp Assistant 🤖
 
