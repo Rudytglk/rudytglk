@@ -18,4 +18,4 @@ Get ready for a revolutionary WhatsApp experience with [Zyronix Bot](https://git
 
 Join us on [GitHub](https://github.com/mznking/ZyronixBot) for updates and sneak peeks. Be part of the excitement!
 
-`© ＺＹＲＯＮＩＸ - ＭＤ  |  ２０２４`
+`© Z I P P Y  B O T  |  ２０２４`
