@@ -6,5 +6,4 @@
 
 🤷🏻‍♂️ I'm Rudy My hobbies are drawing, editing, and coding. I'm still a novice when it comes to coding. I'm just learning HTML, CSS, and JavaScript, hehehe. 
 
-<h3 align="center">Self-Taught Developer. Tech Enthusiast</h3>
 <a href="https://github.com/rudytglk"><img src="https://komarev.com/ghpvc/?username=truethari&style=flat-square&color=red" alt=""/></a>
